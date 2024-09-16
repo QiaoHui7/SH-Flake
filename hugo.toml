@@ -1,4 +1,5 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Communication IP Site'
-theme = 'ananke'
+theme = ['hugo-embed-pdf-shortcode','ananke']
+enableInlineShortcodes = true

@@ -42,3 +42,10 @@ The product is an efficient Polar encoder/decoder Core solution compliant with 3
 - AXI4-stream interfaces
 - Frame-by-frame on-the-fly configuration
 - Very high clock frequency achieved on ASIC and FPGA
+
+
+
+{{< embed-pdf url="./content/posts/Polar_Example.pdf"  hidePaginator="true" >}}
+
+
+
